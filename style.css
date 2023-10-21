@@ -87,7 +87,9 @@ main video {
     width: 60%;
     margin-top: -10%;
 }
-
+#tab3{
+   margin: auto;
+}
 @media screen and (max-width:720px) {
 
     .content-text h1 {
